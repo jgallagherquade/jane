@@ -1,2 +1,2 @@
 # jane
-personal site
+personal website
